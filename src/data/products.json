@@ -1,100 +1,142 @@
 [
-  {
-    "id": 9,
-    "name": "Ultra HD Foundation",
-    "brand": "Make Up For Ever",
-    "category": "Face",
-    "price": 43.99
-  },
-  {
-    "id": 10,
-    "name": "Super Shock Highlighter",
-    "brand": "ColourPop",
-    "category": "Face",
-    "price": 8.99
-  },
-  {
-    "id": 11,
-    "name": "Tattoo Liner",
-    "brand": "KVD Vegan Beauty",
-    "category": "Eyes",
-    "price": 21.99
-  },
-  {
-    "id": 12,
-    "name": "Velvet Matte Lip Pencil",
-    "brand": "NARS",
-    "category": "Lips",
-    "price": 27.99
-  },
-  {
-    "id": 13,
-    "name": "Cheek Heat Gel-Cream Blush",
-    "brand": "Maybelline",
-    "category": "Face",
-    "price": 7.99
-  },
-  {
-    "id": 14,
-    "name": "Luminous Silk Foundation",
-    "brand": "Giorgio Armani",
-    "category": "Face",
-    "price": 64.99
-  },
-  {
-    "id": 15,
-    "name": "Shape Tape Concealer",
-    "brand": "Tarte",
-    "category": "Face",
-    "price": 27.99
-  },
-  {
-    "id": 16,
-    "name": "Brow Wiz",
-    "brand": "Anastasia Beverly Hills",
-    "category": "Eyes",
-    "price": 23.99
-  },
-  {
-    "id": 17,
-    "name": "Vegan Collagen Lash Serum",
-    "brand": "Pacifica",
-    "category": "Eyes",
-    "price": 14.99
-  },
-  {
-    "id": 18,
-    "name": "Orgasm Blush",
-    "brand": "NARS",
-    "category": "Face",
-    "price": 30.99
-  },
-  {
-    "id": 19,
-    "name": "False Lashes",
-    "brand": "Huda Beauty",
-    "category": "Eyes",
-    "price": 18.99
-  },
-  {
-    "id": 21,
-    "name": "Lipstick",
-    "brand": "Huda Beauty",
-    "category": "Lips",
-    "price": 20.99
-  },
-  {
-    "id": 67,
-    "name": "Face Full",
-    "brand": "L'Oréal",
-    "category": "Eyes",
-    "price": 5555
-  },
-  {
-    "id": 31,
-    "name": "Gabriela Barrera",
-    "brand": "L'Oréal",
-    "category": "Lips",
-    "price": 31
-  }
+    {
+        "id": "1",
+        "name": "Foundation",
+        "brand": "Maybelline",
+        "category": "Face",
+        "price": 12.99
+    },
+    {
+        "id": "2",
+        "name": "Concealer",
+        "brand": "L'Oreal",
+        "category": "Face",
+        "price": 8.99
+    },
+    {
+        "id": "3",
+        "name": "Blush",
+        "brand": "NARS",
+        "category": "Face",
+        "price": 30.00
+    },
+    {
+        "id": "4",
+        "name": "Mascara",
+        "brand": "Benefit",
+        "category": "Eyes",
+        "price": 24.00
+    },
+    {
+        "id": "5",
+        "name": "Eyebrow Pencil",
+        "brand": "Anastasia Beverly Hills",
+        "category": "Eyes",
+        "price": 23.00
+    },
+    {
+        "id": "6",
+        "name": "Eyeliner",
+        "brand": "Urban Decay",
+        "category": "Eyes",
+        "price": 21.00
+    },
+    {
+        "id": "7",
+        "name": "Eyeshadow Palette",
+        "brand": "Too Faced",
+        "category": "Eyes",
+        "price": 49.00
+    },
+    {
+        "id": "8",
+        "name": "Lipstick",
+        "brand": "MAC",
+        "category": "Lips",
+        "price": 19.00
+    },
+    {
+        "id": "9",
+        "name": "Lip Gloss",
+        "brand": "Fenty Beauty",
+        "category": "Lips",
+        "price": 18.00
+    },
+    {
+        "id": "10",
+        "name": "Lip Liner",
+        "brand": "Charlotte Tilbury",
+        "category": "Lips",
+        "price": 22.00
+    },
+    {
+        "id": "11",
+        "name": "Setting Spray",
+        "brand": "Urban Decay",
+        "category": "Face",
+        "price": 32.00
+    },
+    {
+        "id": "12",
+        "name": "Highlighter",
+        "brand": "Becca",
+        "category": "Face",
+        "price": 38.00
+    },
+    {
+        "id": "13",
+        "name": "Bronzer",
+        "brand": "Hoola",
+        "category": "Face",
+        "price": 29.00
+    },
+    {
+        "id": "14",
+        "name": "Primer",
+        "brand": "Smashbox",
+        "category": "Face",
+        "price": 36.00
+    },
+    {
+        "id": "15",
+        "name": "Face Powder",
+        "brand": "Laura Mercier",
+        "category": "Face",
+        "price": 39.00
+    },
+    {
+        "id": "16",
+        "name": "Makeup Remover",
+        "brand": "Clinique",
+        "category": "Face",
+        "price": 20.00
+    },
+    {
+        "id": "17",
+        "name": "Nail Polish",
+        "brand": "OPI",
+        "category": "Nails",
+        "price": 10.00
+    },
+    {
+        "id": "18",
+        "name": "Cuticle Oil",
+        "brand": "Sally Hansen",
+        "category": "Nails",
+        "price": 8.00
+    },
+    {
+        "id": "19",
+        "name": "Nail Strengthener",
+        "brand": "Nailtiques",
+        "category": "Nails",
+        "price": 15.00
+    },
+    {
+        "id": "20",
+        "name": "Hand Cream",
+        "brand": "L'Occitane",
+        "category": "Body",
+        "price": 12.00
+    }
 ]
